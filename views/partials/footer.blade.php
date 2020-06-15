@@ -19,6 +19,6 @@
     </div>
 
     @yield('footer')
-    <strong>Copyright © {{ date('Y')}} <a href="http://asgardcms.com" target="_blank">AsgardCms</a></strong>
+    <strong>Developed by <a href="https://romininteractive.com" target="_blank">Romin Interactive</a></strong>
 </footer>
 
