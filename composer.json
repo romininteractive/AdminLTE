@@ -1,5 +1,5 @@
 {
-  "name": "idavoll/adminlte-theme",
+  "name": "romininteractive/adminlte-theme",
   "type": "asgard-theme",
   "description": "An AsgardCMS administration theme",
   "keywords": [
@@ -8,8 +8,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Nicolas Widart",
-      "email": "info@asgardcms.com",
+      "name": "Daksh Mehta",
+      "email": "dm@rimail.in",
       "role": "Developer"
     }
   ],
